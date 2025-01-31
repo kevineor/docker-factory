@@ -33,3 +33,6 @@ docker-compose up -d
 This script will:
 - ✅ Execute Docker Buildx Bake to build images.
 - ✅ Use Terraform to push the images to the configured registry.
+
+
+Feel free to experiment, you can check the registry and see the images being pushed on http://localhost/
